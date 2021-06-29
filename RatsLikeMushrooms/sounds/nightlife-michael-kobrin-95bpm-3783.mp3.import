@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/nightlife-michael-kobrin-95bpm-3783.mp3-ff36b43f3afa50c8a32e68a8378b979f.mp3str"
+
+[deps]
+
+source_file="res://sounds/nightlife-michael-kobrin-95bpm-3783.mp3"
+dest_files=[ "res://.import/nightlife-michael-kobrin-95bpm-3783.mp3-ff36b43f3afa50c8a32e68a8378b979f.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
